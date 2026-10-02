@@ -1,0 +1,23 @@
+
+
+
+
+
+                        let n=1000
+
+            Constant:     ->O(1)   -------------->1---------->best
+            Linear  :     ->O(n)   -------------->10000------>worst
+         Logarithmic:     ->O(log(n))------------>10---------->best
+         sqrt       :     ->O(sqrt(n))----------->32--------->average
+         Quaditic   :     ->O(n*n)--------------->1000000--->worst
+        Linearithmic:    ->O(nlog(n))------------>100000------>worst
+
+
+
+
+            Constant:     ->O(1)
+         Logarithmic:     ->O(log(n))
+         sqrt       :     ->O(sqrt(n))
+            Linear  :     ->O(n) 
+        Linearithmic:    ->O(nlog(n))
+         Quaditic   :     ->O(n*n)

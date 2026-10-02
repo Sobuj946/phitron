@@ -1,0 +1,1 @@
+{"name":"Local: grid_on_dfs","url":"e:\\phitron\\Graph_algorithm\\Undirected Graph M1\\dfs\\grid_on_dfs.cpp","tests":[{"id":1756039440681,"input":"4 3\n...\n...\n...\n...\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\phitron\\Graph_algorithm\\Undirected Graph M1\\dfs\\grid_on_dfs.cpp","group":"local","local":true}

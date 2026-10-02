@@ -1,0 +1,1 @@
+{"name":"Local: Reverse_It","url":"d:\\phitron\\cpp_DSA\\Final_cpp_contest\\Reverse_It.cpp","tests":[{"id":1758889866350,"input":"3\nRahim 9 M 101\nKarim 10 M 102\nRima 9 F 103\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\cpp_DSA\\Final_cpp_contest\\Reverse_It.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: range_sum_two-value","url":"e:\\phitron\\Introduction to programming\\Module6\\range_sum_two-value.c","tests":[{"id":1744726482968,"input":"3\n5 6\n10 4\n4 9\n","output":"0\n21\n12\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\phitron\\Introduction to programming\\Module6\\range_sum_two-value.c","group":"local","local":true}

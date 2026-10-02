@@ -1,0 +1,1 @@
+{"name":"Local: Insert_head","url":"e:\\phitron\\DSA\\Singlylinkedlist\\Insert_head.cpp","tests":[{"id":1753979950443,"input":"5\n10 20 30 40 50\n5\n10 20 30 40 50\n","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\phitron\\DSA\\Singlylinkedlist\\Insert_head.cpp","group":"local","local":true}

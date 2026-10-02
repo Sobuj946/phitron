@@ -1,0 +1,1 @@
+{"name":"Local: value_insert","url":"d:\\phitron\\Introduction to programming\\Module9\\value_insert.c","tests":[{"id":1758712154257,"input":"4\n2 0 0 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\Introduction to programming\\Module9\\value_insert.c","group":"local","local":true}
